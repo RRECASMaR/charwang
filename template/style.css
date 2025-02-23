@@ -1,7 +1,8 @@
 :root {
     --primary: #F8F7F9;
     --secondary: #032B43;
-    --accent: rgb(177, 229, 229);
+    --accent: rgb(192, 230, 230);
+    --accent2: rgb(84, 185, 185); 
     --background: #979D99;
     --text: #000000;
     --nav-width: 250px;
@@ -96,7 +97,7 @@ main {
 }
 
 .project-title {
-    color: var(--accent);
+    color: var(--accent2);
     margin-bottom: 1rem;
     font-size: 1.5rem;
 }
